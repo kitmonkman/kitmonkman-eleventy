@@ -10,9 +10,12 @@ summary: "Reviving Urdance was never going to be a simple matter of interpretati
 
 
 
-_"...at some stage in the future it will either undergo a re-write or maybe another piece will be written."_
-
-Francis Monkman, from an interview about _Urdance_, _Home Keyboard Review_, January 1988.
+<figure class="quote">
+  <blockquote>
+    <p>…at some stage in the future it will either undergo a re-write or maybe another piece will be written.</p>
+  </blockquote>
+  <figcaption>Francis Monkman, from an interview about <em>Urdance</em>, <em>Home Keyboard Review</em>, January 1988</figcaption>
+</figure>
 
 If the issues surrounding an _Urdance_ revival were simply ones of interpretation, the question that I ended my last post with, ‘How does one even begin to collaborate with the dead?’, might not have sounded as loudly in my head.
 

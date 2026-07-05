@@ -245,3 +245,16 @@ body{
 .thread-page-desc a:hover{
   border-color:var(--ink);
 }
+
+/* ---- quotations: cited passages in the figure register ---- */
+.post-body blockquote{
+  margin:0;padding:0 0 0 1.5rem;
+  border-left:1px solid var(--rule);
+}
+.post-body blockquote p{
+  font-style:italic;color:var(--ink-soft);
+  font-size:1.08rem;line-height:1.55;
+  margin:0 0 1rem;
+}
+.post-body blockquote p:last-child{margin-bottom:0;}
+figure.quote{margin:2.4rem 0;max-width:34rem;}
