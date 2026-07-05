@@ -27,6 +27,8 @@ To where? More refinement, more exploration, more possibilities. The question is
 
 For now, I’m going to take a deep breath. The next exhalation will come soon enough.
 
----
+
 
 [^1]: To CoSTAR LiveLAB, Phoenix Dance Theatre, the University of York and Production Park, but particularly to Jack Wingad, Richard Gonski, Professor Gavin Kearney, Professor Helena Daffern, Marcus Jarrell Willis, James Moreman, Oswin Wan, Jacob Havsteen-Franklin, Ben Price, Aaron Chaplin, Dylan Springer, Joe Rees-Jones, Phil Adlam, Jacob Cooper, Nicola Thomas, Niamh Bell, Katarzyna Sochaczewska & Jack Hardwick.
+
+---
