@@ -7,6 +7,11 @@ module.exports = function (eleventyConfig) {
   // Copy the images folder straight through to the built site.
   eleventyConfig.addPassthroughCopy("src/images");
 
+  // --- Footnotes in Markdown posts ([^1] syntax) ---
+  eleventyConfig.amendLibrary("md", (mdLib) =>
+    mdLib.use(require("markdown-it-footnote"))
+  );
+
   // --- Notebook posts collection (everything in src/notebook) ---
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi

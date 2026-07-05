@@ -17,7 +17,7 @@ Last week, _Urdance_ took its first performative step back into the world, as pa
 
 For that, I am deeply grateful.
 
-Grateful for the opportunity to test ideas in front of an audience, to hear _Urdance_ reverberate in a space beyond our private discussions, to feel the energy of a work rediscovering itself. Grateful for the people and organisations who made it happen*, for the conversations it sparked, for the tantalising sense of possibility. But gratitude does not mean satisfaction. This felt like a moment to learn, not to conclude.
+Grateful for the opportunity to test ideas in front of an audience, to hear _Urdance_ reverberate in a space beyond our private discussions, to feel the energy of a work rediscovering itself. Grateful for the people and organisations who made it happen[^1], for the conversations it sparked, for the tantalising sense of possibility. But gratitude does not mean satisfaction. This felt like a moment to learn, not to conclude.
 
 And learn we did. We glimpsed something thrilling — the elasticity of _Urdance_ when woven into new formats, the way it sounded via 28-speaker ambisonics, the way it looked with live dancers moving alongside their mocap avatars, the way technology can both enhance and constrain. There were flashes of the extraordinary, moments where it felt as though we were close to cracking something open, and others where we knew more work lay ahead.
 
@@ -29,8 +29,4 @@ For now, I’m going to take a deep breath. The next exhalation will come soon e
 
 ---
 
-Here’s a PDF of the [Programme](https://www.kitmonkman.com/s/CoStar-LiveLab-Programme-Print-v4-Bold.pdf) for the CoSTAR LiveLAB performance of Urdance’s 2nd Movement.
-
----
-
-*To CoSTAR LiveLAB, Phoenix Dance Theatre, the University of York and Production Park, but particularly to Jack Wingad, Richard Gonski, Professor Gavin Kearney, Professor Helena Daffern, Marcus Jarrell Willis, James Moreman, Oswin Wan, Jacob Havsteen-Franklin, Ben Price, Aaron Chaplin, Dylan Springer, Joe Rees-Jones, Phil Adlam, Jacob Cooper, Nicola Thomas, Niamh Bell, Katarzyna Sochaczewska & Jack Hardwick.
+[^1]: To CoSTAR LiveLAB, Phoenix Dance Theatre, the University of York and Production Park, but particularly to Jack Wingad, Richard Gonski, Professor Gavin Kearney, Professor Helena Daffern, Marcus Jarrell Willis, James Moreman, Oswin Wan, Jacob Havsteen-Franklin, Ben Price, Aaron Chaplin, Dylan Springer, Joe Rees-Jones, Phil Adlam, Jacob Cooper, Nicola Thomas, Niamh Bell, Katarzyna Sochaczewska & Jack Hardwick.
