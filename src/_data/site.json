@@ -1,0 +1,17 @@
+{
+  "title": "Kit Monkman",
+  "url": "https://kitmonkman.com",
+  "nav": [
+    { "text": "The Work", "url": "/work/" },
+    { "text": "[ 147 ]", "url": "/notebook/" },
+    { "text": "About", "url": "/about/" }
+  ],
+  "threadDescriptions": {
+    "the_act_of_looking": "The oldest idea in my work, and the one I keep returning to: that a work of art isn't finished by the person who makes it. It's completed by the person who looks. A face on a screen, a crowd in a square, a cadaver in a Rembrandt — each becomes its real subject only through the attention brought to it. These are pieces about that act, and what it asks of us.",
+    "render_unto_the_machine": "Notes on being human alongside AI — written by someone who admires the machine and works next to it every day, not someone frightened of it. The question isn't whether machines can make things; they plainly can. It's where human value sits once they can, and whether, having industrialised attention the way we once industrialised food, enough of us will start wanting it made with more care again. I might be wrong about that. These are the arguments where I work it out.",
+    "experimentalism": "OA bias toward the attempt you're not quite qualified to make. The best work I've been part of began because the people in the room didn't yet know they couldn't do it — and the risk, rather than the polish, was the point. These are pieces about making things that way: about teaching that ignites rather than delivers, about the experiment that turns out to be the method, not the accident.",
+    "urdance": "My brother Francis composed Urdance — 'a ballet of the mind' — and never recorded it. After he died, I found the score in a mouse-eaten bag in his garage. This is the thread where I chart the attempt to bring the work back to life, and where I keep running into the real difficulty: how do you collaborate with the dead? It's the most personal thing here, and the least resolved.",
+    "york": "A city, and an argument about it. York made me, and I've no intention of leaving it — which is also a position about where ambitious creative work can happen, and who gets to make it. These are pieces about the place: its UNESCO designation, its future, and the case for building things here rather than somewhere that's supposed to matter more.",
+    "restoration": "Pieces about where I come from — family, inheritance, the codes I was raised inside — examined with love and without absolution. I'm not interested in blame, and I'm not interested in letting anyone off either; both are ways of not looking. The narrator here is one of them, not standing outside looking in. Hagiography and hatchet-job are both evasions. This is the attempt at something truer than either."
+  }
+}

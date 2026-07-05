@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+---
+<main class="nav-wrap position">
+  <p class="position-meta">
+    <span>Position</span>
+    <span class="dot">&middot;</span>
+    <span class="updated">As of {{ positionDate }}</span>
+  </p>
+
+  <div class="position-body">
+    {{ content | safe }}
+  </div>
+</main>

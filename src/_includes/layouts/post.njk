@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+---
+<article class="post">
+  <div class="wrap">
+    <p class="post-meta">
+      <span class="post-date">{{ date | readableDate }}</span>
+      {% if thread %}
+        <span class="dot">&middot;</span>
+        <a class="post-thread" href="/notebook/thread/{{ thread }}/">{{ threadTitle or thread }}</a>
+      {% endif %}
+      {% if status %}
+        <span class="dot">&middot;</span>
+        <span class="post-status status-{{ status }}">{{ status }}</span>
+      {% endif %}
+    </p>
+
+<h1 class="post-title">{{ pageTitle }}</h1>
+
+    {% if summary %}
+      <p class="post-summary">{{ summary }}</p>
+    {% endif %}
+
+    <div class="post-body">
+      {{ content | safe }}
+    </div>
+
+    <p class="post-back"><a href="/notebook/">&larr; back to the notebook</a></p>
+  </div>
+</article>

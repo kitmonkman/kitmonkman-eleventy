@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.threads
+  size: 1
+  alias: thread
+permalink: "/notebook/thread/{{ thread.slug }}/"
+eleventyComputed:
+  pageTitle: "{{ thread.title }}"
+---
+<section class="thread-page">
+  <div class="wrap">
+    <p class="post-meta">
+      <a class="post-thread" href="/notebook/">[ 147 ]</a>
+      <span class="dot">&middot;</span>
+      <span class="post-status status-ongoing">thread</span>
+    </p>
+
+    <h1 class="post-title">{{ thread.title }}</h1>
+
+    {% if site.threadDescriptions[thread.slug] %}
+      <p class="thread-page-desc">{{ site.threadDescriptions[thread.slug] }}</p>
+    {% endif %}
+
+    <ul class="post-index thread-posts">
+      {% for post in thread.posts %}
+        <li>
+          <a href="{{ post.url }}">
+            <span class="pi-title">{{ post.data.pageTitle }}</span>
+            <span class="pi-meta">
+              {{ post.date | shortDate }}{% if post.data.status %} &middot; <span class="status">{{ post.data.status }}</span>{% endif %}
+            </span>
+</a>
+          {% if post.data.summary %}
+            <p class="pi-summary">{{ post.data.summary }}</p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class="post-back"><a href="/notebook/">&larr; all threads</a></p>
+  </div>
+</section>

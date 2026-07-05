@@ -1,0 +1,51 @@
+---
+layout: layouts/base.njk
+pageTitle: "[ 147 ]"
+permalink: /notebook/
+---
+<section class="notebook-head">
+  <div class="wrap">
+    <p class="position-meta"><span>[ 147 ]</span><span class="dot">&middot;</span><span class="updated">the notebook</span></p>
+    <p class="notebook-intro">Threads of thinking, added to as they develop. Some entries are finished pieces; some are notes left deliberately open. The threads are where coherence gathers; the list below is simply what's most recent.</p>
+  </div>
+</section>
+
+<section class="threads-zone">
+  <div class="wrap">
+    <p class="destinations-label">The threads</p>
+    <ul class="thread-list">
+      {% for thread in collections.threads %}
+        <li>
+          <a href="/notebook/thread/{{ thread.slug }}/">
+            <span class="thread-name">{{ thread.title }}</span>
+            <span class="thread-meta">{{ thread.posts | length }} {% if thread.posts | length == 1 %}entry{% else %}entries{% endif %} &middot; <span class="status">ongoing</span></span>
+          </a>
+          {% if site.threadDescriptions[thread.slug] %}
+            <p class="thread-desc">{{ site.threadDescriptions[thread.slug] }}</p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="recent-zone">
+  <div class="wrap">
+    <p class="destinations-label">Recent</p>
+    <ul class="post-index">
+      {% for post in collections.posts %}
+        <li>
+          <a href="{{ post.url }}">
+            <span class="pi-title">{{ post.data.pageTitle }}</span>
+            <span class="pi-meta">
+              {{ post.date | shortDate }}{% if post.data.thread %} &middot; {{ post.data.threadTitle or post.data.thread }}{% endif %}{% if post.data.status %} &middot; <span class="status">{{ post.data.status }}</span>{% endif %}
+            </span>
+         </a>
+          {% if post.data.summary %}
+            <p class="pi-summary">{{ post.data.summary }}</p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

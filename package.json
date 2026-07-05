@@ -1,0 +1,16 @@
+{
+  "name": "kitmonkman-com",
+  "version": "1.0.0",
+  "description": "kitmonkman.com — Eleventy site",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Kit Monkman",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}
