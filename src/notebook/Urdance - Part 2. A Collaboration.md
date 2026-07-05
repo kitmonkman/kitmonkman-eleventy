@@ -14,7 +14,6 @@ _"...at some stage in the future it will either undergo a re-write or maybe anot
 
 Francis Monkman, from an interview about _Urdance_, _Home Keyboard Review_, January 1988.
 
-
 If the issues surrounding an _Urdance_ revival were simply ones of interpretation, the question that I ended my last post with, ‘How does one even begin to collaborate with the dead?’, might not have sounded as loudly in my head.
 
 Francis had made it clear to me that he saw the previous performances of _Urdance_, i.e. as a piece for synthesiser and orchestra, as simply _one way_ of presenting the work, a way that, realistically, any 2020s version, with constraints of time and budget, would be unlikely to be able to mirror.
