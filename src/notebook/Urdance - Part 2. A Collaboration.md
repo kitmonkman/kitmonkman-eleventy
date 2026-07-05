@@ -1,6 +1,6 @@
 ---
 pageTitle: Urdance - Part 2. A Collaboration
-date: 2026-06-25
+date: 2024-03-22
 thread: urdance
 threadTitle: Urdance
 status: ongoing
@@ -8,15 +8,13 @@ summary: "Reviving Urdance was never going to be a simple matter of interpretati
 ---
 
 
-[Urdance](https://www.kitmonkman.com/blog/category/Urdance)
 
-22 Mar
 
 _"...at some stage in the future it will either undergo a re-write or maybe another piece will be written."_
 
 Francis Monkman, from an interview about _Urdance_, _Home Keyboard Review_, January 1988.
 
-![[Resources/Attachments/7e4b9087ea8768aa04bb44942c7c3f37_MD5.webp]]
+
 
 If the issues surrounding an _Urdance_ revival were simply ones of interpretation, the question that I ended my last post with, ‘How does one even begin to collaborate with the dead?’, might not have sounded as loudly in my head.
 
@@ -30,9 +28,7 @@ _“It may be that we'll get to record it... I'd certainly like to see it record
 
 Perhaps the opportunity to finally record the piece, forty years on, might prove to be a serendipitous analogue for the synthesiser Francis was building back in the 1980’s but which never saw the light of day (its digital bowels were strewn around his garage). If so, we'd need to strike a balance, combining a fearless creative approach (much in the spirit of Francis) with respect for the existing score, and do our very best to make a version of _Urdance_ that he would have approved of.
 
-![[Resources/Attachments/a66dde130b2f53969ed6926d6ddbe492_MD5.webp]]
 
-Rehearsals for _Urdance_, Francis (at the keyboard) and conductor, Richard Gonski
 
 As I’ve suggested, there were pragmatic factors at play, too. To be clear, the ‘constraints of time and budget’ could better be described as a void. Were it not for the dedicated support of collaborators (of whom more later), who have freely given their time, any attempt to re-realise the piece would have had to remain a fantasy. Given the lack of available resources, full orchestras were out of the question, and I had to accept that any answers to the ‘What’ and the ‘How’ of _Urdance’s_ revival would need to be inextricably combined. At the same time, I recognised that creating a half-baked anodyne representation of such a vital and exciting work would be worse than leaving it untouched.
 
@@ -42,12 +38,8 @@ In an extraordinary act of generosity, Richard Gonski, a close friend of Francis
 
 During that first post-discovery cup of tea at Francis’s house (mentioned in my previous post), Richard had stressed quite how difficult it would be to move from an accurate rendition of the MIDI score that he would produce to an animated, living, breathing recording. However good orchestral samples might now be, he warned me that the work involved in getting them to sound urgent and alive enough to do the work justice would be extensive, if not impossible.
 
-![[Resources/Attachments/f85d692b5c1feedcd1ca32f580bfb83e_MD5.webp]]
-
-Rehearsals of _Urdance_, Francis (at the keyboard), Andrew Powell on bass guitar
 
 We discussed the possibility of layering live performances of individual parts over the top of their digital counterparts, an idea that is still very much in play but yet to be tested. It's certainly not a million miles away from Francis’s original thinking; “I've also doubled quite a few of the orchestra parts, so you get a combination of the synthesiser and live instrument playing the same thing, which is quite interesting. I like that.” We've committed to some small-scale experiments that will explore how well we can make this work in our context. We're quite some way away from knowing how much time and energy this approach might require for the entire piece, but we understand it would need considerable investment if our tests are as successful as we hope. We will cross that bridge when we come to it. I personally view any potential layering of live recordings on top of samples as an augmentation of an effective digital rendition, rather than an attempt to compensate for an inhuman soundscape.
 
 The primary challenge, to get as nuanced an interpretation as possible with the resources available to us, was one that Richard had suggested would take musicality, creativity, sensitivity, intelligence, skill and countless hours of hard, detailed work. It was a task that I was entirely unequipped for, and despite my enthusiasm for the project and Richard's tireless work, it might well have stalled there were it not for Jack Wingad.
 
-![[Resources/Attachments/7e4b9087ea8768aa04bb44942c7c3f37_MD5.webp]]
