@@ -13,7 +13,7 @@ There’s something about firsts that holds the weight of expectation, the thril
 
 
 
-Last week, _Urdance_ took its first performative step back into the world, as part of CoSTAR LiveLab’s launch — an event designed to showcase the performative potential of emergent R&D technologies rather than to present polished productions. It was not the carefully sculpted revival I have in mind, nor was it intended to be. Instead, it was a breath — half-inhaled, exploratory, unfinished.
+Last week, _Urdance_ took its first tentative step back into the world, as part of CoSTAR LiveLab’s launch — an event designed to showcase the performative potential of emergent R&D technologies rather than to present polished productions. It was not the carefully sculpted revival I have in mind, nor was it intended to be. Instead, it was a breath — half-inhaled, exploratory, unfinished.
 
 For that, I am deeply grateful.
 
@@ -29,6 +29,6 @@ For now, I’m going to take a deep breath. The next exhalation will come soon e
 
 
 
-[^1]: To CoSTAR LiveLAB, Phoenix Dance Theatre, the University of York and Production Park, but particularly to Jack Wingad, Richard Gonski, Professor Gavin Kearney, Professor Helena Daffern, Marcus Jarrell Willis, James Moreman, Oswin Wan, Jacob Havsteen-Franklin, Ben Price, Aaron Chaplin, Dylan Springer, Joe Rees-Jones, Phil Adlam, Jacob Cooper, Nicola Thomas, Niamh Bell, Katarzyna Sochaczewska & Jack Hardwick.
+[^1]: To CoSTAR LiveLAB, Phoenix Dance Theatre, the University of York and Production Park, but particularly to Jack Wingad, Richard Gonski, Professor Gavin Kearney, Professor Helena Daffern, Marcus Jarrell Willis, James Moreman, Oswin Wan, Jacob Havsteen-Franklin, Ben Price, Aaron Chaplin, Dylan Springer, Joe Rees-Jones, Phil Adlam, Jacob Cooper, Nicola Thomas, Niamh Bell, Katarzyna Sochaczewska, & Jack Hardwick.
 
 ---
