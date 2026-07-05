@@ -9,7 +9,7 @@ summary: Last week Urdance took its first public step back into the world in dec
 
 There’s something about firsts that holds the weight of expectation, the thrill of the unknown, and the inevitability of imperfection. The first time I heard _Urdance_ — that unmistakable sound of the Synclavier in a dimly lit studio — was a moment of teenage revelation. The first time I saw Francis’ beautifully handwritten score, rescued from the debris of a life well-lived, was a moment of late-middle-aged hope. And now, the first time _Urdance_ has found its way into the public sphere in decades feels like a moment of transition.
 
-<figure> <img src="/images/UoY_CoStar.jpg" alt="_"><figcaption>_Urdance_. Aaron Chaplin, Dylan Springer of Phoenix Dance Theatre perform at the CoSTAR LiveLab launch, 6th February, 2025. Photo by Alex Holland</figcaption> </figure>
+<figure> <img src="/images/UoY_CoStar.jpg" alt="_"><figcaption><i>Urdance</i>. Aaron Chaplin, Dylan Springer of Phoenix Dance Theatre perform at the CoSTAR LiveLab launch, 6th February, 2025. Photo by Alex Holland</figcaption> </figure>
 
 
 
