@@ -204,3 +204,24 @@ body{
   font-size:0.98rem;line-height:1.45;color:var(--ink-faint);
   margin:0.35rem 0 1.1rem;max-width:34rem;
 }
+
+/* ---- in-prose links: the KMA "onward" treatment ---- */
+.position a,
+.placeholder a,
+.post-body a,
+.post-summary a,
+.notebook-intro a,
+.thread-page-desc a{
+  color:var(--ink);
+  text-decoration:none;
+  border-bottom:1px solid var(--ink-faint);
+  padding-bottom:1px;
+}
+.position a:hover,
+.placeholder a:hover,
+.post-body a:hover,
+.post-summary a:hover,
+.notebook-intro a:hover,
+.thread-page-desc a:hover{
+  border-color:var(--ink);
+}
