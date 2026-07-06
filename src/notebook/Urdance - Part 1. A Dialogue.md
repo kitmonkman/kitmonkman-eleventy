@@ -10,13 +10,7 @@ summary: "While clearing my late brother Francis's chaotic house, I hunted for a
 
 
 
-![[Resources/Attachments/7e4b9087ea8768aa04bb44942c7c3f37_MD5.webp]]
-
 I was in my early thirties and clearing out my father’s study. Dad had a bibliographer’s sensibility, and although there appeared to be no structure to his dusty, ephemeral chaos, discernible patterns —-- which must have been crystal clear to him —- began to reveal themselves as my sorting and sifting deepened.
-
-![[Resources/Attachments/51a5cc992abea3c97e7ebaac2fb9d63a_MD5.webp]]
-
-Dad’s study (post tidying!)
 
 As I worked and started to discover the syntax behind his disorder, a dialogue developed between us, my dead father and me, one quite unlike any previous conversation we’d had, at times illuminating, often frustrating, and strangely, sometimes disquietingly, intimate.
 
@@ -30,10 +24,6 @@ A detectorist’s sense of hope developed in me as I looked for the glint of gol
 
 Two years ago, Francis and I had sat together in my small garden in Coxwold and talked about resurrecting the work, a four-movement piece he’d composed for synthesiser and orchestra. First performed at the Queen Elizabeth Hall on 8 March 1987 by the Schoenberg Symphony Orchestra (conductor, Richard Gonski), _Urdance_ had subsequently been performed a handful of times, but no studio recording had ever been made. We both felt that it was one of his most compelling works and deserved to be resurrected.
 
-![[Resources/Attachments/43815e8fd9820a1e71973e613f1c4683_MD5.webp]]
-
-Francis Monkman c 1982
-
 The piece had always had a particular emotional resonance for me. My teenage years in North Yorkshire were punctuated by brief forays to London, where I'd spend time with Francis. He had a studio in the basement of his house in Narcissus Road, dominated by a Synclavier, an early —- and wonderful sounding —- digital synthesiser on which, in 1982, he made a demo of a short sequence from what would become the fourth movement of _Urdance_. Sitting in the dark of his studio, it was one of the most extraordinary things my young ears had ever heard. It excited a sense of otherwordly possibility in me. In many ways, it still does.
 
 Francis had always described the piece as ‘an internal ballet’ or a ‘ballet of the mind’, and I suspect, in his head, there was never a simple sonic distinction between the synthesiser parts and the orchestral ones. Referring back to the original demo, we discussed bringing _Urdance_ back to life as a purely electronic work. Whatever the eventual form that conversation might have led to had he lived, _Urdance_’s renaissance would clearly have been an act of creative revision, reworking and rethinking.
@@ -46,12 +36,7 @@ We also found innumerable floppy disks, but none contained files relating to _Ur
 
 It was there, in a partially mouse-eaten plastic carrier bag, nestled between discarded car tyres and the skeletons of half-assembled synthesisers, that I found it. Or rather, found them. First, a full score, photocopied from an original manuscript and annotated by hand and then, a cup or two of celebratory tea later, another complete unannotated version.
 
-![[Resources/Attachments/6b28be50eed53ee4d38e9c75374e108e_MD5.webp]]
-
-A page from the handwritten _Urdance_ score
-
 Fittingly, Richard Gonski, the piece’s original conductor, was on hand that day; he’d been helping with the sifting and shifting when the discovery was made. That evening, as we wearily reviewed our day’s work, the adrenalin of the search reconstituted itself as a series of questions, each of us with our ideas about what Francis might want us to do with the piece in his absence. Whatever the detail, we shared a commitment to exploring the possibility of bringing _Urdance_ back to life.
 
 Now, several months on, we've begun working together in earnest to make this happen, but many questions remain unanswered. I plan to use this space to raise some of those, to chart our progress and to invite collaborative voices from those who either knew Francis and/or experienced one of the few performances of _Urdance_. Richard and I instinctively knew that working together on this would be a pleasure, and it's already proving so. The problem is Francis. Or rather his absence. How does one even begin to collaborate with the dead?
 
-![[Resources/Attachments/7e4b9087ea8768aa04bb44942c7c3f37_MD5.webp]]
