@@ -4,11 +4,8 @@ date: 2023-11-25
 thread: the_act_of_looking
 threadTitle: The Act of Looking
 status: ongoing
-summary: "A silent installation of strangers' faces, each looking straight ahead, telling half a story the viewer must complete by stepping up to meet their gaze. In this catalogue essay, Professor Jenna Ng reflects on People We Love as storytelling at its most abstract and democratic — and on what that wordless exchange reveals about being human together."
+summary: "A silent installation of strangers' faces, each looking straight ahead, telling half a story the viewer must complete by stepping up to meet their gaze. In this catalogue essay[^1], Professor Jenna Ng reflects on People We Love as storytelling at its most abstract and democratic — and on what that wordless exchange reveals about being human together."
 ---
-
-
-The following short essay by Professor Jenna Ng is extracted from the catalogue that accompanied the edition of _People We Love_ in Viborg, Denmark, in the Autumn of 2023. It is reproduced here with gratitude.
 
 
 
@@ -30,3 +27,4 @@ The following short essay by Professor Jenna Ng is extracted from the catalogue 
 Professor in Film and Interactive Media  
 University of York
 
+[^1]:The short essay is extracted from the catalogue that accompanied the edition of _People We Love_ in Viborg, Denmark, in the Autumn of 2023. It is reproduced here with gratitude.
