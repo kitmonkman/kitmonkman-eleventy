@@ -4,7 +4,7 @@ date: 2023-11-25
 thread: the_act_of_looking
 threadTitle: The Act of Looking
 status: ongoing
-summary: "A silent installation of strangers' faces, each looking straight ahead, telling half a story the viewer must complete by stepping up to meet their gaze. In this catalogue essay[^1], Professor Jenna Ng reflects on People We Love as storytelling at its most abstract and democratic — and on what that wordless exchange reveals about being human together."
+summary: "A silent installation of strangers' faces, each looking straight ahead, telling half a story the viewer must complete by stepping up to meet their gaze. In this catalogue essay, Professor Jenna Ng reflects on People We Love as storytelling at its most abstract and democratic — and on what that wordless exchange reveals about being human together."
 ---
 
 
@@ -21,10 +21,10 @@ summary: "A silent installation of strangers' faces, each looking straight ahead
 
 >In that collision, the story is created. Wordless, unspoken. But told. Prised by the viewer from the stranger’s face; mined between Platonic essence and existential being. This is storytelling at possibly its most abstract: it is difficult to consider how it may be stripped down any further. This is also storytelling at its most democratic. There is no top down grand narrative, no fiercely protected canon, no “official” text. This is a story that is shared with utmost sincerity: the face onscreen accepts their story needs to be received on the viewer’s terms; the viewer acknowledges that they must do the work to get the result.
 
->But that sincerity is what makes _People We Love_ so magical. It is not simply an entirely original form of story and storytelling, although those endeavours are undoubtedly part of the project. It is about _that_ different way of communicating about our lives, which is what stories are ultimately all about. That different way of reaching out to another. That different way of being human together. That different way of understanding what understanding can be.  
+>But that sincerity is what makes _People We Love_ so magical. It is not simply an entirely original form of story and storytelling, although those endeavours are undoubtedly part of the project. It is about _that_ different way of communicating about our lives, which is what stories are ultimately all about. That different way of reaching out to another. That different way of being human together. That different way of understanding what understanding can be.[^1]  
   
 **Jenna Ng**  
 Professor in Film and Interactive Media  
 University of York
 
-[^1]:The short essay is extracted from the catalogue that accompanied the edition of _People We Love_ in Viborg, Denmark, in the Autumn of 2023. It is reproduced here with gratitude.
+[^1]:This short essay is extracted from the catalogue that accompanied the edition of _People We Love_ in Viborg, Denmark, in the Autumn of 2023. It is reproduced here with gratitude.
