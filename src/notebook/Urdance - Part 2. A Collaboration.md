@@ -27,6 +27,7 @@ I felt there was enough ambiguity in these words (again from the 1987 _Home Keyb
 
 >“It may be that we'll get to record it... I'd certainly like to see it recorded. Although I'd like to get it recorded straight away, I'd also like to have the synthesiser built. In many ways, this music is the music I was building the synthesiser for.”
 
+
 Perhaps the opportunity to finally record the piece, forty years on, might prove to be a serendipitous analogue for the synthesiser Francis was building back in the 1980’s but which never saw the light of day (its digital bowels were strewn around his garage). If so, we'd need to strike a balance, combining a fearless creative approach (much in the spirit of Francis) with respect for the existing score, and do our very best to make a version of _Urdance_ that he would have approved of.
 
 As I’ve suggested, there were pragmatic factors at play, too. To be clear, the ‘constraints of time and budget’ could better be described as a void. Were it not for the dedicated support of collaborators (of whom more later), who have freely given their time, any attempt to re-realise the piece would have had to remain a fantasy. Given the lack of available resources, full orchestras were out of the question, and I had to accept that any answers to the ‘What’ and the ‘How’ of _Urdance’s_ revival would need to be inextricably combined. At the same time, I recognised that creating a half-baked anodyne representation of such a vital and exciting work would be worse than leaving it untouched.
