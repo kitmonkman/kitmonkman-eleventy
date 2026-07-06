@@ -25,7 +25,7 @@ The original ‘demo’ I'd first heard back in 1982 was a thrillingly raucous, 
 
 I felt there was enough ambiguity in these words (again from the 1987 _Home Keyboard_ interview) and from my most recent conversations with Francis before his death to offer considerable leeway in approaching the revival. Francis had talked about recording the piece back in the ‘80s but suggested that he was waiting for new sonic possibilities;
 
-_“It may be that we'll get to record it... I'd certainly like to see it recorded. Although I'd like to get it recorded straight away, I'd also like to have the synthesiser built. In many ways, this music is the music I was building the synthesiser for.”_
+>“It may be that we'll get to record it... I'd certainly like to see it recorded. Although I'd like to get it recorded straight away, I'd also like to have the synthesiser built. In many ways, this music is the music I was building the synthesiser for.”
 
 Perhaps the opportunity to finally record the piece, forty years on, might prove to be a serendipitous analogue for the synthesiser Francis was building back in the 1980’s but which never saw the light of day (its digital bowels were strewn around his garage). If so, we'd need to strike a balance, combining a fearless creative approach (much in the spirit of Francis) with respect for the existing score, and do our very best to make a version of _Urdance_ that he would have approved of.
 
