@@ -18,10 +18,6 @@ summary: If a machine can complete Schubert's unfinished symphony convincingly e
 </figure>
 
 
-
-
-
-
 In 2019, the Chinese phone manufacturer Huawei sponsored a ground-breaking concert featuring an orchestra performing Schubert’s unfinished 8th Symphony, which an artificially intelligent ’composer’ had completed. This artificial intelligence (A.I.) had been trained on Schubert’s entire oeuvre, enabling it to compose a convincing finale to the Symphony. Although the audience’s response was overwhelmingly positive, the critical reaction to the concert was considerably more reserved. Much of the resulting analysis appeared to surround the anxiety that machines might be capable of evoking profound emotional responses in humans.
 
 The reasons behind this anxiety are clear. Art is surely the most profound reflection of human identity and culture. The market prices of established artists’ work point towards our species’ search for meaning. However, with machines now capable of creating music, stories, and films on demand, what are the implications for artists, audiences, and humanity as a whole? If, in a decade, we have little machine ’artists’ in our pockets, creating unique works for each of us, on demand, what does that mean for human artists, and what does it say about us, their audience?
