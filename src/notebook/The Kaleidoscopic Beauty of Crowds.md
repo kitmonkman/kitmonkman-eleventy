@@ -1,6 +1,6 @@
 ---
 pageTitle: The Kaleidoscopic Beauty of Crowds
-date: 2026-06-25
+date: 2024-04-09
 thread: the_act_of_looking
 threadTitle: The Act of Looking
 status: ongoing
@@ -20,11 +20,9 @@ I can only guess at what forces are in play when this happens or how one measure
 
 KMA’s interactive installation work between 2005 and 2017 explored this dynamic between audience and performer but reformulated it in a radical way that I haven't seen replicated before or since.
 
-Our premise was extremely simple and based on one question:
+Our premise was extremely simple and based on the question:
 
-![[Resources/Attachments/78e46b80652428c1c52b1e41b7fd2e04_MD5.webp]]
-
-_Can a compelling theatrical event be created in which there is no distinction between performer and audience?_
+>Can a compelling theatrical event be created in which there is no distinction between performer and audience?_
 
 Let’s define that a bit more clearly:
 
@@ -35,13 +33,14 @@ Let’s define that a bit more clearly:
 
 All of KMA’s installations met our self-imposed definition of a theatrical event that removed the distinction between the roles of audience and performer. However, only one, _Congregation_ (first performed in 2010), came close to answering the entirety of our question successfully.
 
-![[Resources/Attachments/b3f6632260cdd8bd5568fe7521d16492_MD5.webp]]
+<figure class="quote">
+  <blockquote>
+    <p>I say installation, and that’s what KMA call it, but really it’s a gathering of curious individuals, a conflation of single humans that, in coming together, at the behest of some strange centrally placed creature, use light to create patterns of connections that demonstrate in no uncertain terms the kaleidoscopic beauty of crowds. </p>
+    <p>Congregation rewards our curiosity with the satisfaction of having helped make beauty, and at the same time it performs a feat of magic: It makes collective joy from that most unlikely of postmodern ingredients: the neurosis of the terminally individual.</p>
+  </blockquote>
+  <figcaption>Adam Scott - Global Head of Design, Hassell</figcaption>
+</figure>
 
-> “I say installation, and that’s what KMA call it, but really it’s a gathering of curious individuals, a conflation of single humans that, in coming together, at the behest of some strange centrally placed creature, use light to create patterns of connections that demonstrate in no uncertain terms the kaleidoscopic beauty of crowds.  
->   
-> Congregation rewards our curiosity with the satisfaction of having helped make beauty, and at the same time it performs a feat of magic: It makes collective joy from that most unlikely of postmodern ingredients: the neurosis of the terminally individual. ”
-
-— Adam Scott - Global Head of Design, Hassell
 
 It was the only installation we made that provoked a compelling and emotionally resonant experience among its participants with any degree of regularity. Witnessing an assortment of urban pedestrians brought together in a moment of shared meaning was extraordinary and beautiful when it occurred. Still, it proved difficult to ‘choreograph’ these emotional highs into a structured, reproducible narrative. Although we tried many approaches to overcome this impasse, we never improved on the emotional impact of _Congregation_. In 2018, Tom and I agreed to leave the question: _Can a compelling theatrical event be created in which there is no distinction between performer and audience?_ only partially answered. 
 
