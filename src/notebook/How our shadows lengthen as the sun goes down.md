@@ -1,6 +1,6 @@
 ---
 pageTitle: How our shadows lengthen as the sun goes down
-date: 2026-06-25
+date: 2020-09-14
 thread: restoration
 threadTitle: Restoration
 status: ongoing
