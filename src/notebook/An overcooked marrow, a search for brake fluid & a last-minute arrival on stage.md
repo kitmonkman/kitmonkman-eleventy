@@ -12,7 +12,7 @@ While still very much linked to my brother and his music, the following is a sli
 
 The diary entry is for Saturday, 28th August 1976, and begins simply enough:
 
-_Sun & clouds & a stiffish breeze, cooler. After a leisurely bkfst, we all drove in the Sherpa to Duncombe Park & walked on the terrace. I took photos._
+>Sun & clouds & a stiffish breeze, cooler. After a leisurely bkfst, we all drove in the Sherpa to Duncombe Park & walked on the terrace. I took photos._
 
 As the parched grass in the photo below testifies, the summer of ‘76 was one of the driest, sunniest and warmest in the British Isles in the 20th century, so the ‘cooler’ reference in his diary entry is relative.  
   
@@ -20,17 +20,17 @@ At the time, my parents, my brother James, and I lived together in Coxwold, a vi
 
 The diary continues:
 
-_After an early lunch ( a stuffed marrow which J_ [my mum] _had forgotten to take out of the top oven before we went to D.Park - but the damage was not so severe, plus rice, white, for speed's sake). F & G_ [Francis and Gingko] _left for Reading where F was due at the pop festival at 7-30;_
+>After an early lunch ( a stuffed marrow which J [my mum] had forgotten to take out of the top oven before we went to D.Park - but the damage was not so severe, plus rice, white, for speed's sake). F & G_ [Francis and Gingko] left for Reading where F was due at the pop festival at 7-30.
 
 The 1976 Reading Festival featured 801, a short-lived experimental band formed in 1976 by Phil Manzanera and Brian Eno, in which Francis played keyboards. Together with Simon Philips and Lloyd Watson, they performed three critically acclaimed concerts: the first, a warm-up gig in Cromer, Norfolk, this one at the Reading Festival and a final concert on 3 September at London's Queen Elizabeth Hall. This last concert was recorded live and released as the album _801 Live_.  
   
 I don’t know what time our ‘early lunch’ ended, but I do know that it's a good four-and-a-half-hour drive south from Coxwold to Reading. Of course, that’s not accounting for a break or a hitch:
 
-_after a short while they were back, their Triumph's brakes having failed. I tried by phone to raise a garage but no luck. However F got some brake fluid from Mrs Stevens at the garage & this seemed to improve if not mend matters; and off they set again, G in some trepidation, & F worried at being late._
+>after a short while they were back, their Triumph's brakes having failed. I tried by phone to raise a garage but no luck. However F got some brake fluid from Mrs Stevens at the garage & this seemed to improve if not mend matters; and off they set again, G in some trepidation, & F worried at being late.
 
 Gingko was always a strong and stoical woman, but her trepidation here is understandable. Throughout his life, Francis drove like a man approaching a chequered flag. In a tearing hurry and with only ‘improved’ brakes to rely on, it must have been a truly hair-raising journey. Of course, in those days, we could know nothing of their progress until, much later that evening, Gingko called;
 
-_All must have gone well, for at 10.50, just after I'd fallen asleep, G rang to say that they had arrived at Reading one minute before 7-30_
+>All must have gone well, for at 10.50, just after I'd fallen asleep, G rang to say that they had arrived at Reading one minute before 7-30_
 
 Neither Francis nor Gingko was much given to hyperbole, so I suspect that arrival time’s not much of an exaggeration. Judging by this blurry little shot of the night I discovered (via Google), it certainly wasn’t long enough for him to change his clothes.
 
@@ -40,6 +40,6 @@ In my own work, I've often explored the dynamic between audience and performer. 
 
 It’s a theme I’ll develop next week in a different context. In the meantime, this is how my dad signed off his diary entry with his response to Gingko having let him know that all was well:
 
-_Nice of her to let us know - We had worried slightly._
+>Nice of her to let us know - We had worried slightly._
 
 Good to hear, Dad.

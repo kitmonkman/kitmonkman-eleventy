@@ -10,11 +10,16 @@ summary: If a machine can complete Schubert's unfinished symphony convincingly e
 
 ---
 
-“*Stop thinking about artworks as objects, and start thinking about them as triggers for experiences. That solves a lot of problems: we don’t have to argue whether photographs are art, or whether performances are art, or whether Carl Andre’s bricks or Andrew Serranos’s piss or Little Richard’s ’Long Tall Sally’ are art, because we say, ’Art is something that happens, a process, not a quality, and all sorts of things can make it happen.’... What makes a work of art ’good’ for you is not something that is already ’inside’ it, but something that happens inside you — so the value of the work lies in the degree to which it can help you have the kind of experience that you call art”.*
+<figure class="quote">
+  <blockquote>
+    <p>Stop thinking about artworks as objects, and start thinking about them as triggers for experiences. That solves a lot of problems: we don’t have to argue whether photographs are art, or whether performances are art, or whether Carl Andre’s bricks or Andrew Serranos’s piss or Little Richard’s ’Long Tall Sally’ are art, because we say, ’Art is something that happens, a process, not a quality, and all sorts of things can make it happen.’... What makes a work of art ’good’ for you is not something that is already ’inside’ it, but something that happens inside you — so the value of the work lies in the degree to which it can help you have the kind of experience that you call art”.</p>
+  </blockquote>
+  <figcaption>Brian Eno</figcaption>
+</figure>
 
-###### **Brian Eno**
 
-\* \* \*
+
+
 
 
 In 2019, the Chinese phone manufacturer Huawei sponsored a ground-breaking concert featuring an orchestra performing Schubert’s unfinished 8th Symphony, which an artificially intelligent ’composer’ had completed. This artificial intelligence (A.I.) had been trained on Schubert’s entire oeuvre, enabling it to compose a convincing finale to the Symphony. Although the audience’s response was overwhelmingly positive, the critical reaction to the concert was considerably more reserved. Much of the resulting analysis appeared to surround the anxiety that machines might be capable of evoking profound emotional responses in humans.
