@@ -7,7 +7,7 @@ status: ongoing
 summary: "A 1972 photograph in the garden of Shandy Hall of a local odd-jobs-man, an actor playing Laurence Sterne, and my mother, opens a reflection on arriving in a tight-knit North Yorkshire village from 'away', the community that has since vanished, and a childhood sense of dislocation that never quite lifted. A meditation on belonging, outsiderness, and how a landscape might hold the key to coming to terms with oneself."
 ---
 
-<figure> <img src="/images/Shadows.jpg" alt="_"> </figure>
+<figure> <img src="/images/Shadows.webp" alt="_"> </figure>
 
 
 This photograph was taken in the summer of 1972 when I would have been seven. It marks the confluence of two worlds. On the far left of the picture is Bob Featherstone, a local odd-jobs-man who rode about the village of Coxwold on his little grey Ferguson tractor, his rough-haired terrier 'Lady' beside him. Divided, not just by a labrador's nose and a cane, but by a whole world (and several centuries) stands Laurence Sterne (played by the actor Iain Cuthbertson) and his twentieth-century associate, my mother.
