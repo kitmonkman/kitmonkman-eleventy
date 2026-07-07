@@ -8,10 +8,6 @@ summary: "Between 2005 and 2017, KMA's interactive installations chased one radi
 ---
 
 
-
-
-9 Apr
-
 In an age of artificial intelligence and virtual reality, it’s worth reconsidering the timeless power of the gathering: human bodies and minds congregated around a shared creative intent.
 
 Whether it's the intimacy of watching a small band in a local pub or joining in the rapturous applause bursting forth from an audience held on the edge of their seats in a West End theatre, there's a connectivity that grows between humans concentrating on the same moment, in the same space which technology has not (yet) come close to replicating.

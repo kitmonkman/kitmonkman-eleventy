@@ -7,7 +7,7 @@ status: ongoing
 summary: "A 1972 photograph in the garden of Shandy Hall of a local odd-jobs-man, an actor playing Laurence Sterne, and my mother, opens a reflection on arriving in a tight-knit North Yorkshire village from 'away', the community that has since vanished, and a childhood sense of dislocation that never quite lifted. A meditation on belonging, outsiderness, and how a landscape might hold the key to coming to terms with oneself."
 ---
 
-![[Resources/Attachments/2f7a67c3abfe31cdfe0ba5ad0c41af42_MD5.webp]]
+<figure> <img src="/images/Shadows.jpg" alt="_"> </figure>
 
 
 This photograph was taken in the summer of 1972 when I would have been seven. It marks the confluence of two worlds. On the far left of the picture is Bob Featherstone, a local odd-jobs-man who rode about the village of Coxwold on his little grey Ferguson tractor, his rough-haired terrier 'Lady' beside him. Divided, not just by a labrador's nose and a cane, but by a whole world (and several centuries) stands Laurence Sterne (played by the actor Iain Cuthbertson) and his twentieth-century associate, my mother.
@@ -27,8 +27,6 @@ All of the school's children had known each other since birth, the majority of t
 I suspect my juvenile confusion was amplified by knowing that, in my parents' projections, the village school was a stop-gap to be 'endured' before I could be sent away to Aysgarth (a boarding school near Bedale) to join my brother who, being three years older, had jumped straight from London prep-schools into this feeder school for Eton, Winchester and the like.
 
 In September 1972, just months after 'Sterne' strode across the lawn with my mother and Bob, I left home, besuited, for this new world. The gap between Coxwold and the regimented Edwardian prep-school of Aysgarth, full of privileged middle-class kids, could not have been greater. It proved to be a gap that my seven-year-old head was incapable of bridging, and, after succumbing to a series of panic-attacks and profound morbid anxiety, I left along with an amplified sense of aloneness.
-
-![[Resources/Attachments/3f41942089449ac25e85cbac32ffabd6_MD5.webp]]
 
 It's a sense that I've never been able to shake, and one that was deepened by my attempt to navigate a childhood clouded by 'mental illness' (as it would now be termed) whilst growing up within a rural comprehensive school. Never feeling fully at home or accepted, and fearing that any sign of my mental frailty would only compound my alienation, I instinctively hid any vulnerability. I remember digging my fingernails deep into my palms during school assemblies in the hope that the pain would override my fear; any amount of physical discomfort was preferable to the shame that my anxiety might be exposed. Otherwise, I found it relatively easy, I played football and ingratiated myself well, sought out commonalities and connections, I avoided conflicts. The price I paid for survival was self-exile. After first weeks, then months, then years of hiding how I felt, it ceased to be a choice. I became, in an emotional sense, the man I am now. Alone. Away.
 
