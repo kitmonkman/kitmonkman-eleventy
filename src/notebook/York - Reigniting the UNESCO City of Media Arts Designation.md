@@ -10,8 +10,6 @@ summary: "Why is a significant VFX studio choosing to build its future in York r
 
 The following is the text of a talk given at York’s first Reignite event — _Reignite the Future. The Economic Impact of Creative Industries in York_ — held at The Radisson Hotel, North Street, York on 14th September 2023.
 
-![[Resources/Attachments/34f34c5b93819442af34de021672f88f_MD5.webp]]
-
 Viridian FX is one of a growing number of companies based in the heart of York that work on globally significant creative projects. The UK's film post-production industry is predominantly located in London. We are one of the very few companies based in the North of England and the only one of its kind in Yorkshire.
 
 We don't see our location as an anomaly. We don't see York as a staging post on a journey towards bigger things. We have no ambition to move from the city. Instead, we see ourselves as being in the vanguard of a change that could see many similar organisations forming and relocating here in York.

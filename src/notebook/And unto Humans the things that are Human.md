@@ -8,7 +8,6 @@ summary: If a machine can complete Schubert's unfinished symphony convincingly e
 ---
 
 
----
 
 <figure class="quote">
   <blockquote>
