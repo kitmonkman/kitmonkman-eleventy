@@ -23,7 +23,9 @@ eleventyComputed:
     {% endif %}
 
     <ul class="post-index thread-posts">
-      {% for post in thread.posts %}
+      {# Urdance is a serial, so it reads oldest first; every other thread is newest first. #}
+      {% set threadPosts = thread.posts if thread.slug == "urdance" else (thread.posts | reverse) %}
+      {% for post in threadPosts %}
         <li>
           <a href="{{ post.url }}">
             <span class="pi-title">{{ post.data.pageTitle }}</span>
